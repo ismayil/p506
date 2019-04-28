@@ -1,1 +1,1 @@
-p506
+group name p506
